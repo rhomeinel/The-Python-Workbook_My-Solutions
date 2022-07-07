@@ -33,6 +33,13 @@ room. The length and the width will be entered as floating point numbers. Includ
 units in your prompt and output message; either feet or meters, depending on which
 unit you are more comfortable working with.
 
+## Exercise 4:Area of a Field
+
+Create a program that reads the length and width of a farmer’s field from the user in
+feet. Display the area of the field in acres.
+Hint: There are 43,560 square feet in an acre.
+
+
 
 © Springer International Publishing Switzerland 2014
 B. Stephenson, The Python Workbook, DOI 10.1007/978-3-319-14240-1_1
