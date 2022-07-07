@@ -13,4 +13,8 @@ area = length * width
 
 #covert area from feet to acres
 acres = area / 43560
-print("The acre of the field is", acres, "acres")
+print("The area of the field is", acres, "acres")
+
+
+#other ways to print
+#print("The area of the field is {}".format(acres), "acres")
